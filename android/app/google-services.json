@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1080213487625",
+    "firebase_url": "https://smart-habitat-a0f8a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-habitat-a0f8a",
+    "storage_bucket": "smart-habitat-a0f8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080213487625:android:aaa39e0b8deb7feda878d8",
+        "android_client_info": {
+          "package_name": "com.example.smart_habitat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080213487625-7sulcnvn8bnpptlmaoqphu9euk52fbn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_habitat",
+            "certificate_hash": "ecb2244c0ad9825a1afefaccc0cda83d092c96de"
+          }
+        },
+        {
+          "client_id": "1080213487625-r2hcvu0u61ij8scvmma82kloske66cb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8QSrkWMHpON6nGRMbIjOyX2mb492Xrd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080213487625-r2hcvu0u61ij8scvmma82kloske66cb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

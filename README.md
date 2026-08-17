@@ -35,3 +35,17 @@ flutter run
 ```
 
 ## Project Structure
+lib/
+├── screens/ # UI screens (auth, home, control, history, alerts, settings, profile)
+├── services/ # Firebase & app services (auth, database, notifications, theme)
+├── utils/ # Shared utilities and theming
+└── main.dart # App entry point
+
+## Resources
+
+- [Flutter documentation](https://docs.flutter.dev/)
+- [Firebase documentation](https://firebase.google.com/docs)
+
+## License
+
+This project currently has no license specified.
